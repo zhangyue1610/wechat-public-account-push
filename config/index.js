@@ -32,7 +32,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oP6NI60e-6iLjSNbs0_l2l-cCwdI",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "drcjCXhDLTVOVJUwfAQ-W4rHNnesvOfnL8MRWsEouZY",
+      useTemplateId: "5ubRaGwuHkqW9sU2SAcAKSKIN7aUxHMmScElK-IgPMY",
       // 所在省份
       province: 北京",
       // 所在城市
@@ -41,7 +41,7 @@ export const config = {
       openUrl: "https://m.weibo.cn/p/106003type=25&t=3&disable_hot=1&filter_type=realtimehot?sourceType=weixin&from=10C9095010&wm=9856_0004&uid=5488878805"
     }, 
     {
-      name: "", 
+      name: "老婆1", 
       id: "",
       useTemplateId: "",
       province: "",
@@ -72,7 +72,7 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "drcjCXhDLTVOVJUwfAQ-W4rHNnesvOfnL8MRWsEouZY",
+  CALLBACK_TEMPLATE_ID: "5ubRaGwuHkqW9sU2SAcAKSKIN7aUxHMmScElK-IgPMY",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
