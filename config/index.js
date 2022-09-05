@@ -27,9 +27,9 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆",
+      name: "最爱的大宝子",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oP6NI60e-6iLjSNbs0_l2l-cCwdI",
+      id: "oP6NI65d6i6pTW7flXBui9FGyOxU",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "5ubRaGwuHkqW9sU2SAcAKSKIN7aUxHMmScElK-IgPMY",
       // 所在省份
@@ -40,12 +40,12 @@ export const config = {
       openUrl: "https://m.weibo.cn/p/106003type=25&t=3&disable_hot=1&filter_type=realtimehot?sourceType=weixin&from=10C9095010&wm=9856_0004&uid=5488878805"
     }, 
     {
-      name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
+      name: "测试", 
+      id: "oP6NI60e-6iLjSNbs0_l2l-cCwdI	",
+      useTemplateId: "5ubRaGwuHkqW9sU2SAcAKSKIN7aUxHMmScElK-IgPMY",
+      province: "黑龙江",
+      city: "鸡西",
+      openUrl: "https://m.weibo.cn/p/106003type=25&t=3&disable_hot=1&filter_type=realtimehot?sourceType=weixin&from=10C9095010&wm=9856_0004&uid=5488878805"
     }, 
     {
       name: "老婆2",
