@@ -7,8 +7,7 @@ export const config = {
   APP_ID: "wx8e3e9a7751df43e5",
 
   // 公众号APP_SECRET
-  APP_SECRET: "f109501d09b5cd2d1d5da8cf9d4b51aa
-",
+  APP_SECRET: "f109501d09b5cd2d1d5da8cf9d4b51aa",
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
@@ -46,8 +45,7 @@ export const config = {
       useTemplateId: "",
       province: "",
       city: "",
-      openUrl: "
-"
+      openUrl: "https://wangxinleo.cn"
     }, 
     {
       name: "老婆2",
@@ -80,7 +78,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oP6NI60e-6iLjSNbs0_l2l-cCwdI	",
+      id: "oP6NI60e-6iLjSNbs0_l2l-cCwdI",
     }, 
   ],
     
@@ -115,7 +113,7 @@ export const config = {
    * 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
    * 如果为0, 则默认展示全部
    */
-  FESTIVALS_LIMIT: 0,
+  FESTIVALS_LIMIT: 4,
 
   /** 日期相关 */
 
