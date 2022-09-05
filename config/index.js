@@ -28,7 +28,7 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "最爱的大宝子",
+      name: "老婆",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oP6NI60e-6iLjSNbs0_l2l-cCwdI",
       // 你想对他发送的模板消息的模板ID
@@ -41,12 +41,12 @@ export const config = {
       openUrl: "https://m.weibo.cn/p/106003type=25&t=3&disable_hot=1&filter_type=realtimehot?sourceType=weixin&from=10C9095010&wm=9856_0004&uid=5488878805"
     }, 
     {
-      name: "测试", 
-      id: "oP6NI60e-6iLjSNbs0_l2l-cCwdI",
-      useTemplateId: "drcjCXhDLTVOVJUwfAQ-W4rHNnesvOfnL8MRWsEouZY",
-      province: "北京",
-      city: "北京",
-      openUrl: "https://m.weibo.cn/p/106003type=25&t=3&disable_hot=1&filter_type=realtimehot?sourceType=weixin&from=10C9095010&wm=9856_0004&uid=5488878805
+      name: "", 
+      id: "",
+      useTemplateId: "",
+      province: "",
+      city: "",
+      openUrl: "
 "
     }, 
     {
@@ -91,9 +91,9 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "广东",
+  PROVINCE: "北京",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "惠州",
+  CITY: "北京",
 
   /** 重要节日相关 */
 
