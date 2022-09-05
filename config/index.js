@@ -41,7 +41,7 @@ export const config = {
     }, 
     {
       name: "测试", 
-      id: "oP6NI60e-6iLjSNbs0_l2l-cCwdI	",
+      id: "oP6NI60e-6iLjSNbs0_l2l-cCwdI",
       useTemplateId: "5ubRaGwuHkqW9sU2SAcAKSKIN7aUxHMmScElK-IgPMY",
       province: "黑龙江",
       city: "鸡西",
@@ -105,7 +105,6 @@ export const config = {
     {"type": "生日", "name": "猪猪", "year": "1998", "date": "10-16"},
     {"type": "节日", "name": "周年纪念日", "year": "2016", "date": "06-15"},
     {"type": "生日", "name": "养猪人", "year": "1998", "date": "02-27"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
   ],
 
   /**
