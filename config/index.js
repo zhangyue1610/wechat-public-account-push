@@ -28,22 +28,22 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "最爱的大宝子",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohxOO6VskY2v40Kuf5ywIZVRM3puXhk",
+      id: "oP6NI60e-6iLjSNbs0_l2l-cCwdI",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Wue80GrtY1nAi5a4tam4FDxZF59WNx9pwcBc06LMpANnu8",
+      useTemplateId: "drcjCXhDLTVOVJUwfAQ-W4rHNnesvOfnL8MRWsEouZY",
       // 所在省份
-      province: "广东",
+      province: 北京",
       // 所在城市
-      city: "肇庆",
+      city: "北京",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://wangxinleo.cn"
+      openUrl: "https://m.weibo.cn/p/106003type=25&t=3&disable_hot=1&filter_type=realtimehot?sourceType=weixin&from=10C9095010&wm=9856_0004&uid=5488878805"
     }, 
     {
-      name: "最爱的大宝子", 
-      id: "oP6NI60e-6iLjSNbs0_l2l-cCwdI	",
-      useTemplateId: "drcjCXhDLTVOVJUwfAQ-W4rHNnesvOfnL8MRWsEouZY	",
+      name: "测试", 
+      id: "oP6NI60e-6iLjSNbs0_l2l-cCwdI",
+      useTemplateId: "drcjCXhDLTVOVJUwfAQ-W4rHNnesvOfnL8MRWsEouZY",
       province: "北京",
       city: "北京",
       openUrl: "https://m.weibo.cn/p/106003type=25&t=3&disable_hot=1&filter_type=realtimehot?sourceType=weixin&from=10C9095010&wm=9856_0004&uid=5488878805
