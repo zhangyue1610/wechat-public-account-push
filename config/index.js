@@ -4,10 +4,11 @@ export const config = {
    */
 
   // 公众号APP_ID
-  APP_ID: "",
+  APP_ID: "wx8e3e9a7751df43e5",
 
   // 公众号APP_SECRET
-  APP_SECRET: "",
+  APP_SECRET: "f109501d09b5cd2d1d5da8cf9d4b51aa
+",
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
@@ -40,12 +41,13 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
+      name: "最爱的大宝子", 
+      id: "oP6NI60e-6iLjSNbs0_l2l-cCwdI	",
+      useTemplateId: "drcjCXhDLTVOVJUwfAQ-W4rHNnesvOfnL8MRWsEouZY	",
+      province: "北京",
+      city: "北京",
+      openUrl: "https://m.weibo.cn/p/106003type=25&t=3&disable_hot=1&filter_type=realtimehot?sourceType=weixin&from=10C9095010&wm=9856_0004&uid=5488878805
+"
     }, 
     {
       name: "老婆2",
@@ -70,7 +72,7 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "zjV1glIuCXo4Csr23aXWEio1iP74sZJ7IQEES95lDsg6c4yOU",
+  CALLBACK_TEMPLATE_ID: "drcjCXhDLTVOVJUwfAQ-W4rHNnesvOfnL8MRWsEouZY",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -78,7 +80,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohx12OO6VskYv03Kuf43ywIZVRM4puXhk",
+      id: "oP6NI60e-6iLjSNbs0_l2l-cCwdI	",
     }, 
   ],
     
